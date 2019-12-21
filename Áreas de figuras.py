@@ -74,3 +74,8 @@ while n == 0:
     else:
         print("\nNo has introducido el número bien.\n")
 
+xyz = 0
+
+while xyz == 0:
+    x = input("Pulsa enter para salir:  ")
+    xyz = 1
