@@ -1,4 +1,4 @@
-# areas_de_figuras
+# Áreas de figuras
 
 ////Español
 Este programa calcula el área de diferentes figuras (cuadrado, rectángulo, triángulo, rombo, romboide, polígono regular y círculo).
